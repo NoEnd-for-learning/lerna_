@@ -1,6 +1,6 @@
 {
   "name": "@demo/module_a",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@demo/module_b": "^1.0.0",
+    "@demo/module_b": "^1.0.1",
     "uuid": "^8.3.2"
   }
 }
