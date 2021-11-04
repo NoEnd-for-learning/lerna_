@@ -6,7 +6,8 @@
   "command": {
     "publish": {
       "registry": "https://github.com/NoEnd-for-learning/lerna_"
-    }
+    },
+    "allowBranch": ["main", "feature/*"]
   },
   "publishConfig": {
     "access": "public"
